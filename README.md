@@ -2,7 +2,7 @@
 
 An Uber-like delivery app for packages, developed by the Jade Jackets team of the Spring 2022 CS 4216/8803 MAS course of the Georgia Institute of Technology.
 
-> **Author:** Jade Jackets of CS 4216/8803 MAS Spring 2022 <br/>  **Implemented:** 02/15/2022 - 04/30/2022 <br/>  **GitHub repo:** https://github.com/farisdurrani/buzzEx
+> **Author:** Jade Jackets of CS 4216/8803 MAS Spring 2022 <br/>  **Implemented:** 02/15/2022 - 04/30/2022 <br/> 
 
 ## How to Run
 
