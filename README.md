@@ -17,13 +17,6 @@ npm start
 
 > Note: this app has not been tested on any other platforms
 
-## Authors
-
-1. [Faris Durrani](https://github.com/farisdurrani/)
-2. [M Austin McDaniel](https://github.com/Austinmc41)
-3. [Reynold Kyaw](https://github.com/mkyaw6)
-4. [Aravind Vengarai](https://github.com/AravindVengarai)
-
 ## Sprint Videos
 
 1. Sprint 1: https://youtu.be/7ZmR1iSvqCw
